@@ -1,5 +1,5 @@
 body{
-  font-family: 'lexend', sans-serif;
+  font-family: 'lexend';
   margin: 0;
   padding: 0;
   background: linear-gradient(120deg,#007af7, #81b8f1);
@@ -105,7 +105,7 @@ input[type="submit"]:hover{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "lexend", sans-serif;
+  font-family: "lexend";
 }
 .signup_link a:hover{
   text-decoration: underline;
