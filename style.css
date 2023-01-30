@@ -341,3 +341,9 @@ nav .sidebar-button i{
 .abc{
   background-color: blue;
 }
+
+.logout{
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
