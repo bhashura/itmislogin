@@ -301,7 +301,7 @@ nav .sidebar-button i{
   }
 }
 .wimg{
-  height: 135px; 
+  height: 135px;
   overflow: hidden;
   transition: transform .5s ease;
   border-radius: 20px;
@@ -337,4 +337,7 @@ nav .sidebar-button i{
   padding-top: 50px;
   padding-right: 50px;
   display:inline-block;
+}
+.abc{
+  background-color: blue;
 }
