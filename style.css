@@ -345,5 +345,15 @@ nav .sidebar-button i{
 .logout{
   text-decoration: none;
   font-size: 20px;
-  color: black;
+  padding: 10px;
+  color: white;
+}
+
+.logoutbtn{
+  border-radius: 10px;
+  background-color: #0A2558;
+  border: 2px solid #0A2558;
+}
+.logoutbtn:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
